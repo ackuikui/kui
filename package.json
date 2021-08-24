@@ -1,0 +1,19 @@
+{
+  "name": "@ackuikui/kui",
+  "version": "1.0.0",
+  "description": "pc ui 组件库，vue2",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ackuikui/kui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ackuikui/kui/issues"
+  },
+  "homepage": "https://github.com/ackuikui/kui#readme"
+}
